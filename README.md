@@ -8,7 +8,7 @@
 
 This project investigates **supervised domain-incremental continual learning** for medical image classification, using [Mammoth](https://github.com/aimagelab/mammoth). It follows the six-domain sequence proposed for medical continual anomaly detection by [Barusco et al.](https://doi.org/10.1145/3746259.3760434), but **asks a different question**: can a classifier trained on labeled *normal and abnormal* images learn sequential medical domains without catastrophic forgetting?
 
-The results are described in the [preliminary technical report](reports/BMAD_Continual_Learning_Technical_Report_Nov_2026.pdf). **This is not a peer-reviewed publication and is not the PyCLAD anomaly-detection benchmark.** An extension to continual visual anomaly detection is planned, not reported here as completed.
+The results are described in the [[preliminary technical report](reports/BMAD_Continual_Learning_Technical_Report_Nov_2026.pdf](https://github.com/PeterOzo/Continual-Medical-Image-Classification-on-BMAD/blob/main/BMAD_Continual_Learning_Report_Peter_Ozo-ogueji%20(4).pdf). **This is not a peer-reviewed publication and is not the PyCLAD anomaly-detection benchmark.** An extension to continual visual anomaly detection is planned, not reported here as completed.
 
 ## Research question and task sequence
 
