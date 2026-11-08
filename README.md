@@ -1,6 +1,5 @@
 # Continual-Medical-Image-Classification-on-BMAD
 
-# Continual Medical Image Classification on BMAD
 
 **Preliminary research code and technical report — November 2026**
 
